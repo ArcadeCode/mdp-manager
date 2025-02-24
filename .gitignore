@@ -1,0 +1,18 @@
+# Byte-compiled
+__pycache__/
+
+# VS Code settings
+.vscode/
+
+# Logs
+**/*.log
+**/*.logs
+
+# Database Files
+**/salt.bytes
+**/verifier.bytes
+
+# Other folder
+demo/
+old/
+debug/
