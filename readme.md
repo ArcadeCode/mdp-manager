@@ -24,7 +24,7 @@ cd ./mdp-manager/
 ### Install Dependencies
 To install the required dependencies, simply run:
 ```sh
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 
 ### Build a database
